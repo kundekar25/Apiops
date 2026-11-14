@@ -1,0 +1,7 @@
+{
+  "properties": {
+    "displayName": "dummysecret",
+    "secret": true,
+    "tags": []
+  }
+}

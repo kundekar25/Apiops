@@ -1,0 +1,19 @@
+{
+  "properties": {
+    "credentials": {
+      "header": {
+        "key": [
+          "{{dummysecret}}"
+        ]
+      },
+      "query": {}
+    },
+    "description": "dummy-backend",
+    "protocol": "http",
+    "tls": {
+      "validateCertificateChain": true,
+      "validateCertificateName": true
+    },
+    "url": "https://dumybackend.com"
+  }
+}
